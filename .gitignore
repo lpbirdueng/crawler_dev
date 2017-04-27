@@ -137,3 +137,17 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+tutorial/.idea/dictionaries/lualex.xml
+
+tutorial/.idea/encodings.xml
+
+tutorial/.idea/misc.xml
+
+tutorial/.idea/modules.xml
+
+tutorial/.idea/tutorial.iml
+
+tutorial/.idea/vcs.xml
+
+tutorial/.idea/workspace.xml
